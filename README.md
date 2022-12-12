@@ -1,7 +1,6 @@
 # Hotel_booking
 
-
-## This is online hotel booking Full Stack Web app made with React.
+This is online hotel booking Full Stack Web app made with React.
 
 
 # Features included are
